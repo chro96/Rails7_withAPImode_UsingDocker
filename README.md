@@ -14,13 +14,13 @@ docker-compose up -d
 ```
 
 # Built-in Gem or Library.
-rubocop
-seed_fu
-active_model_serializers
-faker
-rswag
-seed-fu
-bullet
-annotate
-mysql
+- rubocop
+- seed_fu
+- active_model_serializers
+- faker
+- rswag
+- seed-fu
+- bullet
+- annotate
+- mysql
 
