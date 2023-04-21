@@ -12,6 +12,11 @@ make init
 ```shell
 docker-compose up -d  
 ```
+then brouse access
+
+```
+http://localhost:3001
+```
 
 # Built-in Gem or Library.
 - rubocop
